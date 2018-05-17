@@ -2,8 +2,8 @@ package com.qa.mathoperations;
 
 import org.junit.Assert;
 import org.junit.Test;
-
-
+import org.junit.Test;
+import org.junit.Test;
 
 public class multiplyTest {
 
